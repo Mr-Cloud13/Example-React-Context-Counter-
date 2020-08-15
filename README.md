@@ -1,6 +1,6 @@
 # Example-React-Context-Simple-Counter
 
-~ git clone https://github.com/Mr-Cloud13/Example-React-Redux-Simple-Counter.git
+~ git clone https://github.com/Mr-Cloud13/Example-React-Context-Simple-Counter.git
 
 ~ open the code
 
